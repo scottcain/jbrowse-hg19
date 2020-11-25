@@ -1,0 +1,13 @@
+{
+   "plugins" : [
+      "HideTrackLabels"
+   ],
+   "tracks" : [
+   ],
+   "names" : {
+      "url" : "https://s3.amazonaws.com/agrjbrowse/docker/3.2.0/human/names/",
+      "type" : "Hash"
+   },
+   "dataset_id" : "hg19",
+   "formatVersion" : 1
+}
